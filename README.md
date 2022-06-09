@@ -14,7 +14,7 @@ Este proyecto utiliza los siguientes frameworks y librerias relevantes
 
 _descargar el proyecto desde GitHub_
 ```
-https://github.com/jcastro261/GameSofka.git
+https://github.com/jcastro261/Parameta.git
 ```
 Se recomienda utilizar un IDE para importar el proyecto. Para el caso de Spring Tool Suite
 
