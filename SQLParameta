@@ -1,0 +1,13 @@
+use parameta;
+create table empleado
+(
+id_empleado int primary key auto_increment, 
+nombre varchar(20),
+apellido varchar(20),
+tipo_contrato varchar(50),
+numero_documento varchar(10),
+fecha_nacimiento date,
+fecha_vinculacion date,
+cargo varchar(20),
+salario double
+);
