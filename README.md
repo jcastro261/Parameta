@@ -12,3 +12,13 @@ Este proyecto utiliza los siguientes frameworks y librerias relevantes
 * [Spring](https://spring.io/) - Framework de desarrollo Spring
 * [Spring Data JPA](https://spring.io/projects/spring-data-jpa) - Persistencia
 
+_descargar el proyecto desde GitHub_
+```
+https://github.com/jcastro261/GameSofka.git
+```
+Se recomienda utilizar un IDE para importar el proyecto. Para el caso de Spring Tool Suite
+
+### Ejecucion
+El proyecto requiere una base de datos MySQL 
+
+
